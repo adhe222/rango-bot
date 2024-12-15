@@ -5,14 +5,14 @@
 # Rango
 Rango Exchange | The ultimate cross-chain aggregator. 🔥 Backed by BinanceLabs.                             
 Integrated by TrustWallet, Binance Web3 Wallet, and +50 partners.
-- WEBSITE [https://app.rango.exchange](https://app.rango.exchange/profile)
+- WEBSITE [https://app.rango.exchange](https://rango.vip/a/Xv64va)
 - TWITTER [@RangoExchange](https://x.com/RangoExchange)
 
 
 ## Features
 
 - **Auto Bridge Transaction** to increase volume on rango exchange
-- **Track your Score in Rango's profile! Here** [https://app.rango.exchange/profile](https://app.rango.exchange/profile)
+- **Track your Score in Rango's profile! Here** [https://app.rango.exchange/profile](https://rango.vip/a/Xv64va)
 
 ## Requirements
 
@@ -24,7 +24,7 @@ Integrated by TrustWallet, Binance Web3 Wallet, and +50 partners.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Zlkcyber/rango.git
+   git clone https://github.com/adhe222/rango-bot.git
    cd rango
    ```
 2. Install dependencies:
@@ -42,7 +42,7 @@ Integrated by TrustWallet, Binance Web3 Wallet, and +50 partners.
    ```
 
 
-
+source: https://github.com/Zlkcyber/rango
 ## ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 This project is licensed under the [MIT License](LICENSE).
