@@ -25,7 +25,7 @@ Integrated by TrustWallet, Binance Web3 Wallet, and +50 partners.
 1. Clone this repository:
    ```bash
    git clone https://github.com/adhe222/rango-bot.git
-   cd rango
+   cd rango-bot
    ```
 2. Install dependencies:
    ```bash
