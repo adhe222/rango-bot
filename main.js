@@ -6,7 +6,7 @@ import log from "./utils/logger.js";
 import banner from "./utils/banner.js";
 
 const rangoId = randomUUID()
-const reffCode = '4a624ab5-16ff-4f96-90b7-ab00ddfc342c';
+const reffCode = 'a68cd2d9-29aa-4d98-b5aa-0687af6db474';
 const baseUrl = 'https://api-edge.rango.exchange';
 
 const headers = {
